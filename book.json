@@ -12,8 +12,7 @@
   "pdf": {
     "pageNumbers": true,
     "fontSize": 10,
-    "paperSize": "a5",
-    "fontFamily": "NSimSun",
+    "paperSize": "letter",
     "margin": {
       "right": 0,
       "left": 0,
