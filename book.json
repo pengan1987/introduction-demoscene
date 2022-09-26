@@ -5,7 +5,7 @@
   "styles": {
     "website": "font.css",
     "ebook": "font.css",
-    "pdf": "font.css",
+    "pdf": "print.css",
     "mobi": "font.css",
     "epub": "font.css"
   },

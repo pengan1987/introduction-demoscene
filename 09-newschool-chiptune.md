@@ -47,6 +47,9 @@
 ## Nanoloop
 由“第二代”芯片音乐人所发展出来的制作工具中最有影响力的要数Nanoloop和LSDJ了。与前两节课多次提及的，创造并塑造了芯片音乐场景的Tracker不同，Nanoloop和LSDJ并非由Demoscene中的爱好者所开发。他们被认为是以90年代末为起点的一种独立的芯片音乐场景的作品，而它们对平台的选择源于Game Boy在大众市场上的巨大成功。
 
+![Nanoloop](images/09_01_nanoloop.jpg)  
+*运行中的Nanoloop*
+
 在德国网络电子音乐杂志《MEMI》的采访中，Nanoloop的作者Oliver Wittchow对自己开发这款软件的起点和动机有着清晰的解释，确认了Nanoloop是作为艺术学院学生的论文项目出现的。同时Oliver在开始创建Nanoloop时并没有编程经验，更不是专业开发者。
 
 但Nanoloop并非是凭空出现的，在1998年Nanoloop出现之前，围绕Game Boy的业余开发者社群已经得到了相当程度的发展，Oliver在采访中明确提到了Game Boy上的BASIC解释器和C编译器基本上在1996年前后就是可用的状态栏。
@@ -71,6 +74,9 @@
 任天堂几乎没有通过Game Boy本身赚取利润，游戏机甚至经常被补贴[注：最近售出了第一亿台Game Boy]，所以我理解授权的事情。这只是这个行业的制度。我也很乐意为Nanoloop获得授权，甚至完全出售它。但我不可能满足成为官方Game Boy开发者的条件，而且几乎不可能直接与任天堂联系，只有可能通过第三方制造商进行。
 
 相比Nanoloop，LSDJ的出现与演示场景有着更加密切的联系，在2012年的采访中，LSDJ的作者Johan Kotlinski提到他的一些朋友是瑞典Hack n' Trade演示小组的成员，他们都同样有着对Commodore 64和Amiga音乐的兴趣，同时他也提到曾经使用过Amiga电脑上的音乐制作工具Musicline Editor，这款运行在Amiga电脑上的音乐制作软件同样也是由Demoscene发展出来的。
+
+![Musicline Editor](images/09_02_musicline_editor.jpg)  
+*Musicline Editor*
 
 在2020年的另一篇采访中，Johan则更具体地描述了当时情形，其中提到的另一位音乐人Goto80，正是Hack n' Trade的成员Anders Carlsson：
 
@@ -99,7 +105,13 @@ Nanoloop和LSDJ都是很流行的芯片音乐制作软件，网上的视频教�
 
 > 然而，除此之外，似乎是Game Boy作为西方世界人人皆知的流行文化符号的地位，以及对某些代际来说，它已经成为多种感官的集体记忆的一部分，才使它具有如此大的吸引力。在这方面，Alex Yabsley将Game Boy描述成一种“已经附加了很多符号学意义的符号”，由于这个原因，它可以发展成为整个芯片音乐领域的商标（Yabsley 2007: 23）。目前的一个例子是RTP（Reformat the Planet）DVD的商品包装，附带一个个性化的纸制Game Boy。
 
+![Reformat the Planet](images/09_03_reformat_the_planet.jpg)  
+*Reformat the Planet*
+
 > 但不仅仅是Game Boy的外观、感觉、声音和图形可以唤起和传递这样的意义和记忆，还有玩家的身体表达，或者引用媒体哲学家Vilém Flusser的话，玩Game Boy的姿态可以以不同甚至矛盾的方式被解读（和上演）。在提到Umberto Eco时，Yabsley为某人参观Game Boy音乐会的经历创造了“符号学游击战”一词（Yabsley 2007: 23）。一方面，你看到的是大多数人的刻板印象，形容枯槁的游戏者蜷缩在游戏机上，沉浸在他或她的“人造世界”中的轮廓。另一方面观众也会看到一个备受赞赏的艺术家形象，一位（摇滚）音乐家，以（至少是是满头大汗的）高尚的身体动作，代表了其艺术创造力的真实性和表现力（Frith 1998: 210-211）。
+
+![Hell Yes EP](images/09_04_hell_yes_ep.jpg)  
+*Hell Yes EP的封面展示了具有代表性的Chiptune表演者形象*
 
 就像发电站乐队（Kraftwerk）以西装革履的工程师形象解构了人们对摇滚明星的刻板印象一样，当芯片音乐的演奏者们抱着Game Boy在舞台上扭动他们的身体时也展示了一种不同的人与机器交互的情形。
 
@@ -161,6 +173,9 @@ Nanoloop和LSDJ都是很流行的芯片音乐制作软件，网上的视频教�
 https://akaobi.wordpress.com/2015/07/01/anti-memoirs-an-experience-of-chipmusic-in-japan/
 
 > 有一次，我的学弟问我："你听说过MOD吗？" 我当时不知道这个词是什么意思，后来知道它指的是1998年发布的Urao Yane的BM98中使用的一种音乐文件格式，这是一个受Konami在1997年发布的狂热节拍（beatmania）启发的免费软件。确切地说，这种格式是一种叫做BMS（Be-Music Script或Be-Music Source file）的脚本，其中描述了由wav文件和bmp文件组成的对象的分配，所以它与作为音乐文件格式的MOD有很大不同。在BMS场景中，制作一个文件的工作被分为图片和声音。这类似于Demoscene中制作产品的划分。换句话说，那里有一个专业的概念。此外，在90年代末的日本，源于Demoscene的工具，如Scream Tracker、Impulse Tracker、FastTracker II、MODPlug Tracker和PlayerPRO被用于制作BMS场景中的音乐，也被其他PC用户使用。演示场景就位于我身边。然后在2001年，Chipmusic网站VORC启动，将Chiptune这个术语和概念引入到这个国家。具有讽刺意味的是，在当年我并没有PC。
+
+![BM98](images/09_05_bm98.jpg)  
+*BM98是科乐美狂热节拍（beatmania）的免费模仿者*
 
 2002年被hally认为是“日本芯片音乐的真正开始”，而这很大程度上是围绕LSDJ展开的。
 http://www.vorc.org/en/columns/hally/2002best10e.html

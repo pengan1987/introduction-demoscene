@@ -96,6 +96,9 @@ Colin Anderson在承认CD音轨带来音频保真度的提升的同时，也提�
 
 > SoundMonitor，就其所有的意图和目的而言，是一个音轨序列器原型，可以在其界面上看到许多元素都成为后来音轨序列器软件的典型实践。图5.3展示了它的界面：三个垂直滚动的轨道，每个通道一个，还有专门的控制命令来触发滑音效果和琶音和弦。就用户友好性而言，它比直接为音乐编码或在机器码监视器中修改数据有了巨大的改进，而且它为那些了解技术基础的音乐家提供了一个非常详细的SID编程平台。《Bits and Pieces: A History of Chiptunes》（第131页）
 
+![Amiga采样器](images/08_01_soundmonitor.png)  
+*SoundMonitor V1.0界面*
+
 因为SoundMonitor在是以十六进制机器代码的形式直接印刷在《64er》杂志的内文中的，并没有做任何防逆向的加密，因此SoundMonitor不仅被用来为Commodore 64开发音乐程序，它本身也被二次改编，被许多开发者用作演示程序的一部分。
 
 Commodore 64爱好者场景中对逆向、改编既有作品和开发工具的广泛接纳，与一般音乐场景里非常在意原创性，甚至为几个小节的相似而对簿公堂的做法截然不同。在《点点滴滴：芯片音乐的历史》文中以德国音乐家Thomas Detert和X-Ample演示团队的合作为例介绍了他们是如何改良和使用SoundMonitor并融入自己的作品的。
@@ -111,15 +114,24 @@ Commodore 64爱好者场景中对逆向、改编既有作品和开发工具的�
 
 1987年推出的Amiga 500价格更加便宜，推出时的售价仅售699美元或499英镑，这让它在欧洲颇为流行，Amiga电脑的标准配置带有音频输出接口，但不具备音频采样和录制功能。为了更好地利用Amiga电脑的音频功能，一系列专门为Amiga电脑设计的音频采样外设被开发出来，它们通常是连接在Amiga电脑打印机接口上的小盒子，可以将外部输入的模拟音频信号转换为可以在软件中处理的数字音频信号。在1980年代末，一套由Amiga电脑和采样扩展卡为核心的家庭录音设备花费不超过1000英镑。
 
+![Amiga采样器](images/08_02_amiga_sampler.jpg)  
+*Amiga电脑和采样器*
+
 Amiga电脑和采样功能的结合极大地拓宽了80年代末业余电脑音乐爱好者可以使用的素材，爱好者可以从常见的家用录音媒介，比如盒式磁带、黑胶唱片以及无线电广播中获取音乐素材并进行采样拼贴创作。而在以往这往往需要使用昂贵的录音室设备，比如售价数万美元的Fairlight CMI才能完成。
 
 第一批登陆Amiga平台的音乐制作软件仍然是记谱式的，这其中包括了Will Harvey's Music Construction Set移植到Amiga电脑的版本Deluxe Music Construction Set，以及Aegis Sonix等。同一时期也出现了一些更有创意的音乐制作软件，比如以横向卷轴方式呈现音乐轮廓，并以算法自动搭配和弦的EA Instant Music。
+
+![Instant Music](images/08_03_instant_music.jpg)  
+*EA Instant Music*
 
 1987年，Karsten Obarski开发了名为Ultimate Soundtracker的音乐制作软件，结合了Amiga电脑的采样能力和SoundMonitor的垂直卷轴界面，并对SoundMonitor的操作进行了更适合音乐制作的改良。
 
 > 然后，在1987年德国软件公司EAS的程序员和音乐家 Karsten Obarski，被他的朋友Guido Bartels要求为他正在开发的打砖块风格的游戏制作一个C64风格的原声带。几周前，奥巴尔斯基给他自己买了一台Amiga 1000，并且已经写了一些简单的采样触发音乐程序。他也曾在C64上使用过Chris Hülsbeck的SoundMonitor，并喜欢它的垂直列式布局。如图5.6所示，他的Ultimate Soundtracker结合了这两者。
 
 > Obarski简化了SoundMonitor的界面，删减了C64程序的一些复杂性，将Amiga的四个通道集中到一个可编辑的64步网格中，称为样本（pattern）。每个样本都以垂直滚动的单元格列的形式显示四个通道，标题是旋律、伴奏、低音和打击乐，有一个水平的时间条，延伸到所有四个轨道，显示当前的播放位置。这些样本对音乐的顺序和结构有一个简单的概述，就像一个音乐电子表格，可以用不同的方式进行排序和安排，以产生一首歌曲。《Bits and Pieces: A History of Chiptunes》（第138页）
+
+![Ultimate Soundtracker](images/08_04_ultimate_soundtracker.png)  
+*Ultimate Soundtracker*
 
 在一定程度上，Tracker的界面和操作模式甚至比记谱式的音乐编辑软件更加容易，特别是对于那些没有五线谱等传统乐理知识的用户来说，他们可以像鼓机一样使用Tracker。
 
@@ -130,7 +142,13 @@ Amiga电脑和采样功能的结合极大地拓宽了80年代末业余电脑音�
 ## MOD格式及MOD场景
 Ultimate Soundtracker是第一个使用采样音轨序列模式的音乐制作软件，也是“Tracker”这一名称的起源。Karsten Obarski为它所设计的文件格式“MOD”被之后的一系列Tracker软件所兼容。实际上，包括StarTrekker、DOC Soundtracker、NoiseTracker、ProTracker等软件都是在对Ultimate Soundtracker的逆向工程的基础上完成的，这些软件修正了原始版本的Ultimate Soundtracker的一些错误，改进了程序的稳定性，并提供额外的功能。Amiga游戏资料网站ExoticA的条目记录了Ultimate 
 
+![一系列Tracker软件](images/08_05_different_trackers.jpg)  
+*许多Tracker软件都来自对Ultimate Soundtracker的逆向工程*
+
 在这一过程中Karsten Obarski的著作权被破解场景所无视，作为商业软件销售的Ultimate Soundtracker也并没有取得广泛的成功。但SoundTracker的制作流程却在这一过程中被Demoscene广泛采用，MOD格式也成为Amiga电脑上采样序列音乐格式的事实标准。许多时候“MOD音乐”也被用作利用Tracker软件制作的，基于采样的音乐文件的统称。
+
+![音乐磁盘菜单](images/08_06_music_disk_menu.jpg)  
+*音乐磁盘通常有内置带有动画效果的菜单程序*
 
 相比高度依赖硬件特性的PSG音乐，基于采样的Tracker音乐在保持足够小的文件体积的同时，在不同设备上也可以保持相对一致的播放效果。在90年代初MP3音乐流行之前，Tracker/MOD音乐也是FidoNet、Usenet和互联网上最活跃的音乐分享社群，并形成了以磁盘为单位的“音乐专辑”：只包含音乐的磁盘被称作“音乐磁盘”（music disk）；而包含音乐、图像和程序混合内容的磁盘被称作“打包磁盘”（pack disk）。这种围绕着Tracker音乐制作和传播而形成的社群也被称作“MOD场景”（mod scene）。
 
@@ -157,5 +175,8 @@ Ultimate Soundtracker是第一个使用采样音轨序列模式的音乐制作�
 可以说，基于PSG的游戏音乐和基于Tracker的演示场景音乐是“芯片音乐”的两大源流，而“芯片音乐”（chiptune）也起源于演示场景用于描述那些模仿PSG声音的作品：
 
 > 随着越来越多的声音芯片风格的音乐磁盘的流通，MOD迷们发现他们需要一个术语来区分它们与其他形式的Tracker音乐。当然，Amiga可以听起来像PSG，但它也可以听起来像一支摇滚乐队或管弦乐队。到1990年，“芯片”（chip）已经开始在MOD文件名中作为一种风格的代号出现，1991年，术语chiptune，意思是一段芯片音乐，作为Nuke(Martin Iveson)的作品标题“mod.chiptune-12k”出现在Anarchy打包磁盘中。《Bits and Pieces: A History of Chiptunes》（第145~146页）
+
+![Anarchy](images/08_07_Anarchy_menu.png)  
+*Anarchy打包磁盘的菜单目录*
 
 今天国内媒体在讨论芯片音乐的时候，往往在回避演示场景对芯片音乐的贡献和影响而迎合游戏爱好者的怀旧情结，这种描述完全忽视了芯片音乐作为一种地下文化场景反商业化的精神内核，是不够公正客观的。但无论是将芯片音乐与商业化的游戏音乐过度关联，还是围绕“假芯片”的争议，在一定程度上都有其客观原因和历史源流，在下一节课，我们希望追溯千禧年前后至今芯片音乐的发展来回答上面这些问题，并解读90年代中后期LSDJ、Nanoloop等独立演示场景之外的芯片音乐工具及其所带来的“新生代”（new school）音乐场景的特点。
