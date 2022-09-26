@@ -53,6 +53,9 @@
 
 Stack Exchange上的文章回顾了90年代初PC和Amiga等家用电脑平台的价格 https://retrocomputing.stackexchange.com/questions/22387/cost-of-pc-vs-amiga-500-in-europe
 
+![1993年的PC销售海报](images/05_01_pc_price.jpg)  
+*1993年，PC兼容机已经成为价格上有竞争力的游戏设备*
+
 而利用PC播放声音的外设也开始出现，比如1987年底上市的Covox Speech Thing是一个电阻梯（Resistor ladder）数模转换器，可以连接在PC打印机接口上播放数字音频，Covox结构简单，爱好者自制的仿制品也非常流行，《The Covox years》一文中提到1992年的demo程序Crystal Dream的自述文件中，就附带了简化版的Covox电路图，而制作这样一个设备的成本只需要几美元。
 
 1987年上市的还有AdLib声卡，它的主要功能是为PC提供一颗Yamaha YM3812 FM合成器芯片，而1989年的Sound Blaster“声霸卡”则在兼容AdLib的同时提供了完整的数字音频录制和回放功能，并在90年代逐渐成为PC声卡的事实标准。
@@ -130,6 +133,9 @@ PC硬件性能的快速增加挑战了演示场景长期以来以通过底层的
 曾经参加过Elitegroup和Farbrausch小组的Dirk Jagdmann（Dr. Detroit/doj）在2008年的幻灯片里介绍了Kasparov和fr-08等1999~2000年间巨大影响的PC demo的制作流程，其中就介绍到制作Kasparov演示程序时开发小组曾利用SoftImage 3D‍‍进行建模、用Photoshop制作纹理贴图、用FastTracker II制作音乐。而在另一个演示程序fr-08（也就是国内流传的《幽灵古堡》）中，则使用了基于MIDI和Logic Audio（Logic Pro的前身）的音乐制作流程、和自行开发的V2软件合成器。
 
 从上面的例子我们看到，在素材准备的过程中“new skool”演示小组与游戏开发团队所做的事情已经非常接近了。而“Demotool”则可以理解为专门为演示程序设计的“游戏引擎”，在Jagdmann的幻灯片里，以Farbrausch小组的第一款制作工具Generator为例介绍了演示合成（demo composition）工具的基本功能，即图形化的演示脚本编辑器，它提供图形界面的编辑器用来组织演示引擎所支持的命令，包括生成纹理和对模型的几何操作。
+
+![Generator](images/05_02_generator.jpg)  
+*制作fr-08所使用的Generator工具*
 
 脚本引擎和图形化脚本编辑器的出现大大降低了制作PC演示程序的门槛。2004年6月，Farbrausch公开了Generator的后续产品，最成功的演示制作工具之一：.werkkzeug1，这也是唯一被2000年代中期国内demo爱好者所了解的演示制作工具。但值得注意的是.werkkzeug1在海外并不是第一个被演示场景社群广泛使用的图形化演示合成类Demotool，名为moppi的演示小组早在2000年就公开发布了图形化的制作工具Demopaja，爱好者几乎无需编码即可制作出可以运行的演示程序。
 

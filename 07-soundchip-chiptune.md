@@ -22,6 +22,9 @@
 - Noise Generator噪音发声器
 - Envelope Generator and Modulator，即包络发生器和调制器
 
+![SN76477](images/07_01_SN76477.jpg)  
+*SN76477功能框图*
+
 如果你之前见过一些合成器，比如像Moog、雅马哈DX7、罗兰JUNO，或者任何它们的简化版，比如我之前用过的罗兰JUNO的简化版JX-3P。你会发现这些功能在许多合成器上都可以找到。其实声音芯片就是一台小合成器，它把合成器的典型功能集成到单个芯片里面。
 
 与市售的商品合成器有许多不同型号一样，声音芯片也有许多功能、特点各不相同的型号。不同声音芯片就像不同乐器一样有着不同的音响特点和演奏技巧，这跟大众话语里往往将不同类型的芯片笼统地称作“芯片音乐”的理解有着明显不同，在《剑桥电子游戏音乐指南》（The Cambridge Companion to Video Game Music）中《红皮书之前：早期视频游戏音乐和技术》（Before Red Book: early video game music and technology）一文中，就指出了大众语境中的这种混肴：

@@ -94,6 +94,9 @@
 
 2013年，德国著名的演示聚会Revision Party开始跟萨尔造型艺术学院 (HBKsaar) 实验媒体实验室（xm:lab）合作，面向演示场景爱好者征集针对媒体幕墙（Media Facade）的作品。
 
+![媒体幕墙](images/06_01_xm_lab.jpg)  
+*实验媒体实验室xm:lab所安装的媒体幕墙*
+
 类似的装置在2020年之后在国内特别流行，往往被称作“海浪屏”或“裸眼3D大屏”，这主要是由于韩国COEX购物中心外墙上的LED大屏带来的巨大营销效果在国内引发的新媒体公共艺术热潮，而这已经比演示场景的尝试落后了6~7年。
 
 Revision Party的比赛现场使用了5个投影机组成的媒体幕墙。我们可以看出2013年的作品仍然相对粗糙，许多作品的表现形态与多频影像作品无异。但第一名的作品《White water》已经展示出利用媒体幕墙中的拐角制造三维空间幻象的实践。而2016年，相关的作品就已经可以更加成熟地利用幕墙的特性，制造出碰撞、打破玻璃等更有空间感的效果了。
@@ -111,6 +114,9 @@ Revision Party的比赛现场使用了5个投影机组成的媒体幕墙。我�
 可穿戴设备，比如Pebble Time智能手表也成为爱好者们创作的平台。2016年的作品Rocky Reality就在智能手表的小屏幕上重现了1993年著名的DOS演示Second Reality的图像效果。
 
 而与老式电脑相关的实验文学也出现在野生演示的比赛中，2017年波兰Silly Venture中的参赛作品Robbo Solucja（Robbo. Walkthrough，Robbo攻略）就是由波兰亚盖沃大学（Jagiellonian University）的助理教授Piotr Marecki编写的。这个程序以波兰曾经流行的Atari XL / XE电脑游戏《Robbo》为灵感编写的一部“Robbo攻略生成器”。
+
+![Robbo Solucja](images/06_02_Robbo_Solucja.jpg)  
+*运行中的《Robbo Solucja》程序和同名图书*
 
 在2018年，Piotr Marecki将由Robbo Solucja生成的56段游戏攻略编辑成册，并出版了同名图书《Robbo. Solucja》而整本图书的编辑和排版，都是使用Atari ST电脑上的软件完成的，在2019年的论文《雅达利、创意制作和僵尸电脑》（Atari, Creative Making & Zombie Computers）中，就介绍了Robbo. Solucja软件和图书制作的详细情况。
 
