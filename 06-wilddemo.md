@@ -1,7 +1,7 @@
 # “野生”演示
 今天是演示场景概论的第六节课，“野生”演示（wild demo）。野生演示是怎么一回事，又有怎样的发展历史呢？在2002年芬兰Assembly Party的《野生演示入门》（Wild demo primer）里面的一句话简单地概括了“野生”演示出现的目的：
 
-> The original purpose of the wild compo was to provide a category for entries done on platforms not accepted in the normal compos.
+> The original purpose of the wild compo was to provide a category for entries done on platforms not accepted in the normal compos.  
 > 野生作品的最初目的是为在正常作品中不接受的平台上完成的作品提供一个类别。
 
 野生演示显然与一般情况下Demo比赛所具有的细致分类和详尽规则有着明显的不同。典型的demo compo通常有着细致的电脑平台规格分类，比如说像Commodore 64一个类别，PC一个类别，Amiga一个类别等等。但是总会有许多的电脑型号是主办方无法提供的，有一些情况是机型本身比较小众或开发者很少，比如TI-99系列；也有一些机型是有着明显的地域特点而跨国参赛的，比如说国产的学习机和电子词典。这些机型往往就找不到合适的类别参加，因为机器性能和开发工具的差异，为它们开发的演示程序很难和Commodore 64、ZX Spectrum直接进行横向的比较。
@@ -130,6 +130,9 @@ Revision Party的比赛现场使用了5个投影机组成的媒体幕墙。我�
 比如说我们在《数字媒体实验考古》课程里面有讲过的书写投影器（Overhead Projector OHP）的一些光学特性，就时常被演示场景中的爱好者用来编排光学表演。
 
 在2008年瑞士温特图尔（Winterthur）举办的Buenzli聚会上，cortex小组的作品就获得了野生演示比赛的第一名，作品标题“Interferenz”在德语里的含义是“干涉条纹”，而这正是书写投影器作品最常用的效果之一。后来这一小组也多次以书写投影器作品参加比赛，他们的作品被整理在Pouet.net的数据库里。
+
+![OHP MEGA DEMO 9000](images/06_03_ohp_megademo.jpg)  
+*OHP MEGA DEMO 9000中展示的干涉条纹效果*
 
 2012年美国波士顿举办的@party上，Desire和TRSI小组也展示了他们的书写投影器作品：《OHP MEGA DEMO 9000》，其中出现了不少实时生成演示程序中常见的效果，比如加载进度条、跳动的彩球、波浪状飞过屏幕的字幕等等。
 
