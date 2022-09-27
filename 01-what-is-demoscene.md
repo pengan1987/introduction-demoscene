@@ -1,10 +1,6 @@
 # 什么是Demoscene？
-
-演示场景概论是2022年春季，我在中国美术学院网络社会研究所开设的新课程，这是国内第一次以人文社会科学的角度介绍“演示场景”这一计数字文化现象的课程，这个系列的文章由课堂录音整理而来，全系列共12讲：
-
-## What is the scene?
 欢迎大家来到演示场景概论，在这节课上我希望来给大家介绍一下，目前持续的历史最久，同时在全世界有相当的影响力的数字文化现象：Demoscene，就是演示场景。
-
+## What is the scene?
 首先我们来讲一下它为什么叫Demoscene，然后看一下它是个什么东西，那么一般我们看它的名字，其实是一个合成词，就是demo的scene，那么什么是一个scene？我查了一下字典，剑桥字典上对“scene”的解释是这样的：scene
 
 > a particular area of activity and all the people or things connected with it.
